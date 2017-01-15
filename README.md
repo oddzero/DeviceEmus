@@ -1,5 +1,5 @@
 #DeviceEmus
-![picture alt](http://nextivems.com/assets/icons/deviceemus.png "DeviceEmus' Icon")
+![picture alt](http://nextivems.com/assets/img/icons/deviceemus.png "DeviceEmus' Icon")
 DeviceEmus is an Android and iOS Emulator for iOS, Android, and the Web.
 
 ####How does it work?
